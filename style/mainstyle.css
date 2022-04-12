@@ -171,3 +171,48 @@ footer .container {
   padding: 10px 20px;
   text-decoration: none;
 }
+
+/* Início Responsivo */
+
+/*Inicio responsivo do topo*/
+@media (max-width: 425px) {
+
+.topo .container {  
+  flex-flow: column wrap;    
+}
+
+.topo-links{  
+  border-top: 2px solid gray;
+}
+
+.box-visao-geral {  
+  height: 200px;
+}
+
+.box-visao-geral h1 {
+  font-weight: 400;
+  text-transform: uppercase;
+  font-size: 28px;
+  margin: 0;
+}
+
+}
+/*Fim responsivo do topo*/
+
+/*Responsivo do Background image*/
+@media (min-width: 426px) and (max-width: 768px) {
+  .box-visao-geral {  
+  height: 300px;
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .box-visao-geral {  
+  height: 400px;
+}
+
+@media (max-width: 1025px) {
+  .box-visao-geral {  
+  height: 500px;
+}
+}
+
