@@ -1,0 +1,80 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+main {
+  color: #0000008c;
+  margin-bottom: 60px;
+}
+
+.especialidades-links {
+	display: flex;	
+	justify-content: space-evenly;	
+	max-width: 1024px;
+	padding: 0px 200px 0px 200px;	
+	margin: auto;	
+}
+
+.especialidades-links a {
+  padding: 10px;
+  text-decoration: none;
+  color: gray;  
+  border-bottom: 3px solid lightblue;
+}
+
+.especialidades-links a:hover {
+  color: lightgreen;
+}
+
+.titulo-especialidades {
+	display: flex;
+	justify-content: center;
+	max-width: 1024px;
+	margin: auto;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+.especializacao {
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	max-width: 1024px;
+	margin: auto;
+	margin-top: 50px;
+}
+
+.tabela {
+	display: flex;
+	flex-direction: row;
+	text-align: left;	
+	max-width: 1024px;	
+	margin: auto;
+	border: 2px solid red;
+}
+
+.tabela img {
+	height: 250px;
+	width: 100%;
+}
+
+.tabela-head {	
+	background-color: lightblue;
+	height: 40px;
+	color: #fff;
+}
+
+.descricao h4 {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+
+
