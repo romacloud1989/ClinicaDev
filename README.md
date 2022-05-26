@@ -2,7 +2,6 @@
 
 <p>Site desenvolvido para <strong>portfólio</strong></p>
 
-![Rolage da página](https://user-images.githubusercontent.com/40328495/162750773-4e8acbae-6e4a-42ee-98d4-d63070f29600.gif)
-
+![exib](https://user-images.githubusercontent.com/40328495/170509339-03d9215c-e2d7-4cb0-8869-14be7e281e8b.gif)
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
